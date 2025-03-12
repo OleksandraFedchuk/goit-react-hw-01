@@ -1,0 +1,52 @@
+.item {
+  border: thick double #32a1ce;
+  border-radius: 12px;
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 40px;
+  background-color: #efebeb;
+  margin-bottom: 50px;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  background-color: grey;
+  color: black;
+  border: 1px solid beige;
+  border-radius: 15px;
+  gap: 15px;
+}
+
+.name {
+  font-size: 52px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.common {
+  font-size: 28px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid darkgray;
+  gap: 10px;
+}
+
+.text {
+  font-size: 24px;
+  font-weight: 500;
+}
