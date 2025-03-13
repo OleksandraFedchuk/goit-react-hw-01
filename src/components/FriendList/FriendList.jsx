@@ -9,7 +9,6 @@ export default function FriendList({ friends }) {
           <FriendListItem friend={friend} />
         </li>
       ))}
-      ;
     </ul>
   );
 }

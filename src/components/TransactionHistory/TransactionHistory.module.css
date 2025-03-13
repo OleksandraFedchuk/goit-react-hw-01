@@ -1,0 +1,15 @@
+.table {
+  border-spacing: 0 10px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  margin: auto;
+  width: 500px;
+}
+
+tr {
+  padding: 10px 20px;
+  background: #480f468c;
+  color: #ea41f9;
+  border-right: 2px solid;
+  font-size: 1em;
+}
